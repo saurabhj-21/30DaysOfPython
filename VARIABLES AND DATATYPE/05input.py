@@ -1,0 +1,5 @@
+a=float(input("Enter number 1: "))
+b=float(input("Enter number 2: "))
+print("Number a is: ", a)
+print("Nuumber b is: ", b)
+print("Sum = ", a+b)
