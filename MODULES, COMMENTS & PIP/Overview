@@ -1,1 +1,6 @@
-
+MODULES:
+A module is a file containing code written by somebody else (usually) which can be imported and used in our programs.
+PIP:
+Pip is the package manager for python. You can use pip to install a module on your system.
+COMMENTS:
+Comments are used to write something which the programmer does not want to execute. This can be used to mark author name, date etc.
