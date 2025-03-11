@@ -1,0 +1,18 @@
+VARIABLE:
+A variable is the name given to a memory location in a program.
+
+DATA TYPES
+Primarily these are the following data types in Python:
+1. Integers
+2. Floating point numbers
+3. Strings
+4. Booleans
+5. None
+Python is a fantastic language that automatically identifies the type of data for us.
+
+OPERATORS IN PYTHON
+Following are some common operators in python:
+1. Arithmetic operators: +, -, *, / etc.
+2. Assignment operators: =, +=, -= etc.
+3. Comparison operators: ==, >, >=, <, != etc.
+4. Logical operators: and, or, not.
